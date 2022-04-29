@@ -12,7 +12,7 @@ function ItemList(props) {
     //too many items in this API
     //const url = "http://5826ed963900d612000138bd.mockapi.io/items"
     //few items in the API, cannot be modified
-    const url = "http://599167402df2f40011e4929a.mockapi.io/items"
+    const url = "https://599167402df2f40011e4929a.mockapi.io/items"
 
     /*     
     const [hasErrored, setHasErrored] = useState(false)
